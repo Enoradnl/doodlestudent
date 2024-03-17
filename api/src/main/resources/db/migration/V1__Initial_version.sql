@@ -2,7 +2,7 @@
 -- version 5.1.1deb5ubuntu1
 -- https://www.phpmyadmin.net/
 --
--- Hôte : localhost:3306
+-- Hôte : localhost:3305
 -- Généré le : mar. 22 août 2023 à 10:08
 -- Version du serveur : 8.0.33-0ubuntu0.22.04.4
 -- Version de PHP : 8.1.2-1ubuntu2.13
